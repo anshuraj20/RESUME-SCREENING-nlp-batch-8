@@ -1,4 +1,5 @@
 Resume Screening with Python 🧠📄
+
 This project demonstrates a Resume Screening Application that uses Natural Language Processing (NLP) to automatically match candidate resumes with job descriptions. It helps HR departments or recruiters quickly filter and rank candidates based on required skills.
 
 📌 Project Objective
