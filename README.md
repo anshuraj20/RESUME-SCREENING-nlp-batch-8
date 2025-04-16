@@ -82,5 +82,5 @@ The Resume Screening System is designed to assist recruiters by automatically ca
 The trained model can predict the category of new resumes with promising accuracy, helping recruiters automate the first layer of candidate screening.
 
 ---
-.
+
 
