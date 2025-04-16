@@ -83,4 +83,4 @@ The trained model can predict the category of new resumes with promising accurac
 
 ---
 
-
+.
