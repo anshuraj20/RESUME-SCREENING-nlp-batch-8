@@ -59,9 +59,21 @@ The Resume Screening System is designed to assist recruiters by automatically ca
 ## 🛠️ Tech Stack
 
 - Python 🤖
-- Pandas & NumPy for data handling
-- Scikit-learn for machine learning
+  
+- Several Models and Libraries used.
+  - Hugging Face transformers — BERT & tokenization
+  - PyTorch — model training and inference
+  - scikit-learn — classical ML models (Random Forest, SVC, KNN) & evaluation metrics
+  - TensorFlow — auxiliary utilities (if used)
+  - pandas — data manipulation
+  - matplotlib & seaborn — data visualization
+  
 - Natural Language Processing (NLP) techniques
+  - Tokenization
+  - Vectorization (TF-IDF)
+  - Transformer-based Text Classification (BERT)
+ 
+- Streamlit — for building the interactive user interface
 
 ---
 
